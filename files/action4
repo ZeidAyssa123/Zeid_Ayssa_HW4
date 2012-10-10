@@ -1,0 +1,4 @@
+list all
+set Quantity=5 for PartID=T48979
+list all
+set Size=5 for PartID=T48979
